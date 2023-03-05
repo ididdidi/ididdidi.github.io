@@ -1,4 +1,0 @@
----
-lang: En
-layout: tagpage
----

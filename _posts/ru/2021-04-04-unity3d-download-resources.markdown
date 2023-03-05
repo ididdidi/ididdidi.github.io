@@ -4,7 +4,7 @@ repository: Unity3d-Network
 preview: /assets/images/posts/2021-04-04-unity3d-download-resources/preview.jpg
 date:   2021-04-04 10:00:00 +0300
 categories: ru cases
-tags: [C#, Unity3d]
+tags: [c#, unity3d]
 lang: Ru
 layout: post
 ---

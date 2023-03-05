@@ -9,7 +9,7 @@ lang: En
 layout: post
 ---
 
-Today I will tell you how, while writing my [thesis work]({{site.url}}/ru/projects/mobile-monitoring-system), I implemented MqttClient for an android application. It is not difficult to do this, but there was very little detailed information at that time in my native language, and I decided to fix it.
+Today I will tell you how, while writing my [thesis work]({{site.url}}/ru/projects/mobile-monitoring-system), I implemented MqttClient for an android application. As you will see later, this is easy to do. So let's get started!
 
 ## What you need to do this:
 * Working environment of **Android Studio**

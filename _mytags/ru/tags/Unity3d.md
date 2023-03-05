@@ -1,4 +1,0 @@
----
-lang: Ru
-layout: tagpage
----
