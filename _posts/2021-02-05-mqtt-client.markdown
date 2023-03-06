@@ -13,7 +13,7 @@ Today I will tell you how, while writing my [thesis work]({{site.url}}/ru/projec
 
 ## What you need to do this:
 * Working environment of **Android Studio**
-* Smartphone running Android OS
+* Smartphone running **Android** OS
 * **MQTT** server (broker)
 
 ## Connecting the **Paho Android Service** Library

@@ -2,7 +2,7 @@
 title: Mobile monitoring system
 repository: mobile-monitoring-system
 preview: ./assets/images/projects/mobile-monitoring-system/preview.png
-excerpt:  Identification of sensors during the crawl, receiving information from the Control center about the values of their readings, visualizing the readings from the sensor on the screen of a mobile device, sending a message to the Control center that the object was examined...
+excerpt:  Identification of sensors during the crawl, receiving information from the Control center about the values of their readings, visualizing the readings from the sensor on the screen of a mobile device, sending a message to the Control Center that the object has been inspected...
 date: 27-06-2019
 categories: projects
 tags: [java, android, studies, mqtt]
@@ -22,7 +22,7 @@ QR-codes:
 
 ## 1. Project target
 
-Creation of a software system for automating control over the conduct of rounds at enterprises, improving the quality of their implementation, freeing personnel from routine operations to fill in the logs of the crawl, by identifying sensors during the crawl, obtaining information from the Control center about the values of their readings, visualizing the readings from the sensor on the screen of a mobile device, sending a message to the Control center that the object was inspected.
+Creation of a software system for automating control over the conduct of rounds at enterprises, in order to improve the quality of their conduct, freeing personnel from routine operations to fill in the logs of the round, by identifying sensors during the round, obtaining information from the Control Center about the values of their readings, visualizing readings from the sensor on the screen mobile device, sending a message to the Control Center that the object has been inspected.
 
 ### 1.2. Scope of application of the development
 The application is designed to work in enterprises with a system for centralized receipt of technological information from its infrastructure objects.

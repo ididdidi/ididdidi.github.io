@@ -95,14 +95,4 @@ The Navigation View panel contains the main menu of the app. You can use it to s
 
 The date filter is a dialog box that allows you to display a list of indicator values for the last week, month, year, or all the time.
 
-## 5. In development
-
-* Add notifications
-* Sync with external storage
-* Sending messages to the attending physician
-* Possibility of remote monitoring by the attending physician
-* Expanding the list of vital signs
-
-[Presentation](https://docs.google.com/presentation/d/1-P9VE__qfNN_8ina_EEwV8gKhBg5nLA2bVtckjjmEzI/)
-
 _Thank you for your interest! :)_

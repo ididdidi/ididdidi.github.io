@@ -24,8 +24,8 @@ The user must enter the following parameters:
 ### 1.2. Output data
 At the output, the program will show the following results:
 * Vectors with values X and Y in the form of a table with the possibility of editing
-* Graph _**Y(X)**_ based on the results of the formula calculation 
-* ANSI-encoded text file, where each line is separated by dots, and the coordinates in the line are separated by semicolons
+* Graph **Y(X)** based on the results of the formula calculation 
+* **ANSI**-encoded text file, where each line is separated by dots, and the coordinates in the line are separated by semicolons
 
 ## 2. Project structure
 
@@ -127,4 +127,4 @@ A graph will appear in the window with the changes that we made in the file:
 By pressing the **«F12»** key, the program is terminated normally.
 
 
-_Thank you for your interest! :)_
+*Thank you for your interest! :)*
