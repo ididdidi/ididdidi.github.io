@@ -6,7 +6,7 @@ position: 0
 lang: En
 ---
 
-![mofrison](/assets/images/avatar.png)
+![ididdidi](/assets/images/avatar.png)
 
 Hello, dear reader of my blog! My name is Michael, I started with the layout of **VKontakte** wiki pages and the creation of sites on **WordPress**, and now I am developing applications for **Android** and **Oculus VR**. Most of the time I use **Android Studio** and **Unity3d**. I like to create something new and different, using non-standard approaches and finding optimal solutions.
 
