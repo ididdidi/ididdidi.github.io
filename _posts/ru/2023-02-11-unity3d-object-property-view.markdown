@@ -119,15 +119,17 @@ private class ObjectPropertyView
 private List<ObjectPropertyView> properties = new List<ObjectPropertyView>();
 
 // Method for adding displayable serialized object properties
-protected void AddPropertyView(SerializedProperty serializedProperty, GUIContent label = null) {
+protected void AddPropertyView(SerializedProperty serializedProperty, GUIContent label = null)
+{
+    if (target.GetType().ToString().Equals(serializedProperty.type.TrimStart("PPtr <$".ToCharArray()).TrimEnd('>')))
+    {
+        throw new System.ArgumentException("The type of the field must be different from the type of the parent object, otherwise recursion occurs.");
+    }
     properties.Add(new ObjectPropertyView(serializedProperty, label));
 }
 
 // Method for adding displayable serialized object properties
-protected void AddPropertyView(SerializedProperty serializedProperty, string label)
-{
-    properties.Add(new ObjectPropertyView(serializedProperty, new GUIContent(label)));
-}
+protected void AddPropertyView(SerializedProperty serializedProperty, string label) => AddPropertyView(serializedProperty, new GUIContent(label));
 
 // Display the properties of objects added to the list
 protected void DrawProperties()
