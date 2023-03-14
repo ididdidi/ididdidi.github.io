@@ -196,7 +196,7 @@ public class TestEditor : ExtendedEditor
 В методе `OnEnable()` находим необходимые нам `SerializedProperty` и добавляем их в список для отображения. 
 Поле типа `Integer` добавлено для визуализации ошибки связаной с использованием типа не производного от `Object`.
 
-## Result
+## Результат
 Если поле пустое, под спойлером будет сообщение об ошибке.
 ![Сообщение об ошибке](/assets/images/posts/2023-02-11-unity3d-object-property-view/empty_field.jpg)
 
@@ -206,5 +206,9 @@ public class TestEditor : ExtendedEditor
 
 Этот способ также применим для отображения сериализованых полей `ScriptableObject`.
 ![Показать свойства scriptableObject](/assets/images/posts/2023-02-11-unity3d-object-property-view/display_scriptableObject_Properties.jpg)
+
+Вы можете использовать `ExtendedEditor` в своем проекте, добавив [этот репозиторий](https://github.com/{{ site.github.owner_name }}/{{ page.repository }}) как [подмодуль](https://git-scm.com/book/en/v2/Git-Tools-Submodules):
+
+    git submodule add https://github.com/{{ site.github.owner_name }}/{{ page.repository }}
 
 Спасибо за внимание :)

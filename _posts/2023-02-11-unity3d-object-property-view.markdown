@@ -208,4 +208,8 @@ If you add a link to an object in the field, the properties of that object will 
 This method is also applicable for displaying serialized fields of `ScriptableObject`.
 ![Display scriptableObject properties](/assets/images/posts/2023-02-11-unity3d-object-property-view/display_scriptableObject_Properties.jpg)
 
+You can use `ExtendedEditor` in your project by adding [this repository](https://github.com/{{ site.github.owner_name }}/{{ page.repository }}) as a [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules):
+
+    git submodule add https://github.com/{{ site.github.owner_name }}/{{ page.repository }}
+
 Thank you for your attention :)
