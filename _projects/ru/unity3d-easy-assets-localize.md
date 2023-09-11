@@ -1,11 +1,11 @@
 ---
-title: Распознавание символов
-repository: my-ocr
+title: "Unity3d: Простая локализация ассетов"
+repository: Unity3d-EasyAssetsLocalize
 preview: ./assets/images/projects/my-ocr/segmentation.jpg
-excerpt: Это программа позволяет распознавать текстовые символы, находящиеся на растровом изображении. Цель данной работы - изучения машинного зрения на основе фильтров теории активного восприятия изображения...
-date: 22-05-2017
+excerpt: Пакет для легкой локализации ассетов в Unity3d...
+date: 10-09-2024
 categories: ru projects
-tags: [c++, studies]
+tags: [c#, unity3d]
 layout: project
 lang: Ru
 ---
