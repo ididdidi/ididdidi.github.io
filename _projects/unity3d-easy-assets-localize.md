@@ -1,7 +1,7 @@
 ---
 title: "Unity3d: Easy Assets Localize"
 repository: Unity3d-EasyAssetsLocalize
-preview: ./assets/images/projects/my-ocr/segmentation.jpg
+preview: ./assets/images/projects/easy-assets-localize/preview.jpg
 excerpt: The package for easy localization of assets in Unity3d...
 date: 10-09-2023
 categories: projects

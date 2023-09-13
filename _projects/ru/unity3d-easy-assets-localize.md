@@ -1,7 +1,7 @@
 ---
 title: "Unity3d: Простая локализация ассетов"
 repository: Unity3d-EasyAssetsLocalize
-preview: ./assets/images/projects/my-ocr/segmentation.jpg
+preview: ./assets/images/projects/easy-assets-localize/preview.jpg
 excerpt: Пакет для легкой локализации ассетов в Unity3d...
 date: 10-09-2023
 categories: ru projects
