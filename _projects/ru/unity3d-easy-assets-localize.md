@@ -23,13 +23,22 @@ lang: Ru
 
 ## 2. Настройка
 
-* В верхнем меню выберите: `Window` -> `Localization Storage`.
-* В открывшемся окне Хранилище локализаций нажмите на __`⚙`__ рядом с полем поиска.
-![Pic. 2. Settings button](/assets/images/projects/easy-assets-localize/settings-button.jpg?raw=true "Pic. 2. Settings button") 
-* В открывшейся вкладке вы можете добавить языки и типы ресурсов, необходимые для локализации.
-![Pic. 3. Settings](/assets/images/projects/easy-assets-localize/settings.jpg?raw=true "Pic. 3. Settings") 
-* Чтобы добавить язык, нажмите __`+`__ внизу списка и выберите его из списка основных языков системы Unity.
-* Чтобы добавить новый тип активов для локализации, нажмите __`+`__ в конце списка с типами и перетащите образец актива по умолчанию в появившееся поле. Дождитесь завершения генерации кода.
+В верхнем меню выберите: `Window` -> `Localization Storage`.
+В открывшемся окне Хранилище локализаций нажмите на __`⚙`__ рядом с полем поиска.
+![Pic. 2. Кнопка настроек](/assets/images/projects/easy-assets-localize/settings-button.jpg?raw=true "Pic. 2. Кнопка настроек]") 
+
+В открывшейся вкладке вы можете добавить языки и типы ресурсов, необходимые для локализации.
+![Pic. 3. Настройки](/assets/images/projects/easy-assets-localize/settings.jpg?raw=true "Pic. 3. Настройки") 
+
+Чтобы добавить язык, нажмите __`+`__ внизу списка и выберите его из списка основных языков системы Unity.
+![Pic. 4. Добавить язык](/assets/images/projects/easy-assets-localize/languages.jpg?raw=true "Pic. 4. Добавить язык")
+
+Чтобы добавить новый тип ассета для локализации, нажмите __`+`__ внизу списка с типами.
+![Pic. 5. Добавить тип ассета](/assets/images/projects/easy-assets-localize/types.jpg?raw=true "Pic. 5. AДобавить тип ассета") 
+
+Перетащите образец актива по умолчанию в появившееся поле.
+![Pic. 6. Настройки](/assets/images/projects/easy-assets-localize/settings-result.jpg?raw=true "Pic. 6. Настройки") 
+Дождитесь завершения генерации кода.
 
 ## 3. Использование
 
