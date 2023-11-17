@@ -4,3 +4,5 @@ Hello, dear reader of my blog! My name is Michael, I started with the layout of 
 
 I try to contribute to open source projects and decided to create my own blog where I plan to share my work in the hope that it will be useful to someone else. On my site you can see the [projects](https://ididdidi.ru/projects) that I am working on, as well as the [tasks](https://ididdidi.ru/cases) that I have solved in these projects.
 My non-technical interests are in hiking and outdoor activities.
+
+If you have any questions or suggestions, do not hesitate to send them to the email indicated on the [Contacts](https://ididdidi.ru/contacts) page!
