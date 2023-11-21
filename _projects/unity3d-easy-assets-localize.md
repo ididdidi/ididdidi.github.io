@@ -83,7 +83,7 @@ To interact with an object of type `LocalizationController` in code, you can use
 
 Method          | Description
 ----------------|---------
-GetInstance     | A static method that creates or returns a ready-made instance from the stage. Accepts a `dontDestroy` argument which allows you to save the object instance when changing scenes. Returns an instance of `LocalizationController`.
+GetInstance     | The static method that creates or returns a ready-made instance from the scene. Accepts a `dontDestroy` argument which allows you to save the object instance when changing scenes. Returns an instance of `LocalizationController`.
 Subscribe       | Allows an instance of a `LocalizationComponent` derived type, passed as an argument, to subscribe to localization changes.
 Unsubscribe     | Allows an instance of a `LocalizationComponent` derived type, passed as an argument, to subscribe to localization changes.
 SetNextLanguage | Changes the language to the next one in the localization list.
