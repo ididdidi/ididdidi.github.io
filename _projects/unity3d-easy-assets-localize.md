@@ -20,6 +20,8 @@ The package for easy localization of assets in Unity3d.
 * Paste the link to this repository into the field that appears and press `Enter`.
 * Wait for the code generation to finish.
 
+> __Attention!__ _Do not change the package folder structure, otherwise you risk losing all localization data._
+
 ## 2. Setup
 Select from the top menu: `Window` -> `Localization Storage`.
 
