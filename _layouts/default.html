@@ -4,13 +4,15 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="WZ7NS54enTAd5y_l8qrk3EwSPQK525T_Ciewdm3t1tU" />
     <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="/assets/css/extension.css">
     <link rel="stylesheet" href="/assets/css/lightbox.css">
     <script type="text/javascript" src="/assets/js/lightbox.js"></script>
 
-{% seo %}
+    {% seo %}
+    {% include google-analytics.html %}
   </head>
   <body>
     <header>
@@ -42,16 +44,5 @@
             <!--a href="mailto:mofrison.dev@gmail.com"><img src=/assets/images/icon-email.png></a-->
         </div>
     </footer>
-
-    {% if site.google_analytics %}
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
   </body>
 </html>
