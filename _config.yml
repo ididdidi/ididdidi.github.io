@@ -1,7 +1,8 @@
 title: ididdidi
 google_analytics: G-VFZN9EWPJN
 theme: jekyll-theme-hacker
-plugins: jekyll-sitemap
+plugins:
+  - jekyll-sitemap
 
 collections:
     pages:
