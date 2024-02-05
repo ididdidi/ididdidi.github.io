@@ -1,7 +1,8 @@
 <div class="posts-near">
-    {% assign posts = include.posts | where: "lang", page.lang | sort: 'date' | reverse %}
+    {% assign posts = include.posts | where: "lang", page.lang | sort: 'date' %}
     {% for post in posts %}
         {% if post.url == page.url %}
+
             {% assign previous = forloop.index0 | minus: 1 %}
             {% if previous >= 0 %}
                 <a id='previous' href="{{ posts[previous].url }}">{{ posts[previous].title }}</a>

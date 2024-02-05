@@ -3,4 +3,8 @@
         <a href="https://github.com/{{ site.github.owner_name }}/{{ include.repository }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         <a href="https://github.com/{{ site.github.owner_name }}/{{ include.repository }}/archive/master.zip" class="btn">Download as .zip</a>
     </section>
+{% elsif include.gist %}
+    <section id="github_btns">
+        <a href="https://gist.github.com/{{ site.github.owner_name }}/{{ include.gist }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+    </section>
 {% endif %}

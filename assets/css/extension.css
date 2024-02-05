@@ -175,7 +175,7 @@ footer {
 .post-preview .description { padding: 1em 1em 1.4em 1em; }
 .post-preview h2 { margin-bottom: 0.4em; }
 
-.posts-near { display: flex; flex-wrap: wrap-reverse; flex-direction: row; justify-content: space-around; margin-bottom: 0.5em; }
+.posts-near { display: flex; flex-wrap: wrap; flex-direction: row; justify-content: space-around; margin-bottom: 0.5em; }
 .posts-near a { margin: 0.5em 0;}
 .posts-near { margin-right: 32px; }
 .posts-near #previous { margin-left: 32px; }

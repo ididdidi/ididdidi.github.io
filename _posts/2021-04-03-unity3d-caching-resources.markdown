@@ -1,6 +1,6 @@
 ---
 title:  "Unity3d: Saving data on the device"
-repository: Unity3d-Network
+gist: 2c9e1e20cb5d585ecaa8012fc6a0c78a
 preview: /assets/images/posts/2021-04-03-unity3d-caching-resources/preview.jpg
 date:   2021-04-03 10:00:00 +0300
 categories: cases
@@ -9,7 +9,7 @@ lang: En
 layout: post
 ---
 
-In this article, we are talking about saving data to the device's permanent memory and organizing access to it. It is intended to prepare you, dear reader, for a more complex article about downloading resources from the network. In fact, this is its introductory part, which was allocated in a separate post, because the topic turned out to be very voluminous.
+In this article, we are talking about saving data to the device's memory and organizing access to it. It is intended to prepare you, dear reader, for a more complex article about downloading resources from the network. In fact, this is its introductory part, which was allocated in a separate post, because the topic turned out to be very voluminous.
 
 ## Why store resources in the device memory
 I think many developers primarily of mobile applications have encountered the fact that resources do not fit in the application installation files. This is especially true for those who use photorealistic content(360 panoramas). A small help in this is the use of extension files, but they are also limited in size. In addition, downloading additional content requires updating the app through the store.
