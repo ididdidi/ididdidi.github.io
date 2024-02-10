@@ -13,16 +13,7 @@ lang: En
 ![Pic. 1. View](/assets/images/projects/easy-assets-localize/view.jpg?raw=true "Pic. 1. View") 
 The package for easy localization of assets in Unity3d.
 
-## 1. Installation
-* Open the __Package Manager__: `Window` -> `Package Manager`.
-* Click on the __`+`__ at the top.
-* Select `Add package from git URL...` in the drop-down list.
-* Paste the [link to this repository](https://github.com/ididdidi/Unity3d-EasyAssetsLocalize.git) into the field that appears and press `Enter`.
-* Wait for the code generation to finish.
-
-> __Attention!__ _Do not change the package folder structure, otherwise you risk losing all localization data._
-
-## 2. Setup
+## 1. Setup
 Select from the top menu: `Window` -> `Localization Storage`.
 
 ![Pic. 2. Settings button](/assets/images/projects/easy-assets-localize/settings-button.jpg?raw=true "Pic. 2. Settings button")
@@ -51,7 +42,7 @@ You can edit the default localization by selecting it and clicking on the tools 
 ![Pic. 9. Edit default localization](/assets/images/projects/easy-assets-localize/edit-default-localization.jpg?raw=true "Pic. 9. Edit default localization")
 <center>This unlocks the resources of the languages used to change.</center>
 
-## 3. Applying localization to an object
+## 2. Applying localization to an object
 Select the object that needs localization.
 Add a resource localization component to it: `Add component` -> `Localize` -> `[Resource type]Localization`.
 ![Pic. 10. Add Localization Component](/assets/images/projects/easy-assets-localize/localization-component.png?raw=true "Pic. 7. Add Localization Component")
@@ -61,7 +52,7 @@ Add a resource localization component to it: `Add component` -> `Localize` -> `[
 ![Pic. 12. Add handler](/assets/images/projects/easy-assets-localize/add-handler.jpg?raw=true "Pic. 9. Add handler")
 <center>The new localization will link to the same resources as the standard one.</center>
 
-## 4. Change localization
+## 3. Change localization
 
 You can change the localization directly on the object. To do this, click the `Change Localization` button in the inspector window of the localization component.
 
@@ -72,7 +63,7 @@ The new localization will link to the same resources as the standard one. They c
 
 > Attention! When editing a localization used by several objects, the changes will affect all objects using an instance of this localization.
 
-## 5. Managing localizations in Runtime
+## 4. Managing localizations in Runtime
 
 To control localization in Runtime, you need to add the `LocalizationController` component to the stage.
 
