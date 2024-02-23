@@ -1,5 +1,5 @@
 ---
-title: "Unity3d: Простая локализация ассетов"
+title: "Unity: Простая локализация ассетов"
 repository: Unity3d-EasyAssetsLocalize
 preview: ./assets/images/projects/easy-assets-localize/preview.jpg
 excerpt: Пакет для легкой локализации ассетов в Unity3d...

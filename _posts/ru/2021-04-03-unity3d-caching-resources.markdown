@@ -1,5 +1,5 @@
 ---
-title:  "Unity3d: Хранение данных на устройстве"
+title:  "Unity: Хранение данных на устройстве"
 gist: 2c9e1e20cb5d585ecaa8012fc6a0c78a
 preview: /assets/images/posts/2021-04-03-unity3d-caching-resources/preview.jpg
 date:   2021-04-03 10:00:00 +0300

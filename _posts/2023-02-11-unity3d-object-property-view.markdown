@@ -1,5 +1,5 @@
 ---
-title:  "Unity3d: Displaying object properties"
+title:  "Unity: Displaying object properties"
 repository: Unity3d-ExtendedEditor 
 preview: /assets/images/posts/2023-02-11-unity3d-object-property-view/preview.png
 date:   2023-02-11 10:00:00 +0300

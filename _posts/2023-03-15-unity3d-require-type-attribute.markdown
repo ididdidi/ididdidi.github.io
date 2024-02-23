@@ -1,5 +1,5 @@
 ---
-title:  "Unity3d: Attribute for displaying fields with interface"
+title:  "Unity: Attribute for displaying fields with interface"
 repository: Unity3d-Attributes 
 preview: /assets/images/posts/2023-03-15-unity3d-require-type-attribute/preview.jpg
 date:   2023-03-15 10:00:00 +0300

@@ -1,5 +1,5 @@
 ---
-title:  "Unity3d: Загрузка ресурсов из Сети"
+title:  "Unity: Загрузка ресурсов из Сети"
 repository: Unity3d-Network
 preview: /assets/images/posts/2021-04-04-unity3d-download-resources/preview.jpg
 date:   2021-04-04 10:00:00 +0300

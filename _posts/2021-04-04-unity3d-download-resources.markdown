@@ -1,5 +1,5 @@
 ---
-title:  "Unity3d: Resources from the Network"
+title:  "Unity: Resources from the Network"
 repository: Unity3d-Network
 preview: /assets/images/posts/2021-04-04-unity3d-download-resources/preview.jpg
 date:   2021-04-04 10:00:00 +0300

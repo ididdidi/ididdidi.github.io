@@ -1,5 +1,5 @@
 ---
-title: "Unity3d: Easy Assets Localize"
+title: "Unity: Easy Assets Localize"
 repository: Unity3d-EasyAssetsLocalize
 preview: ./assets/images/projects/easy-assets-localize/preview.jpg
 excerpt: The package for easy localization of assets in Unity3d...
